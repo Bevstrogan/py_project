@@ -1,2 +1,3 @@
 from funcs import Plus
-print(Plus(1, 2))
+from funcs import Minus
+print(Minus(1, 2))
